@@ -24,6 +24,7 @@ const MovieList = ({search, movielist, searchRating}) => {
             type={el.type}
             description={el.description}
             rating={el.rating}
+            id={el.id}
           />
         ))}
     </div>

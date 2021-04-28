@@ -1,0 +1,10 @@
+
+.trailer-title{
+    width: 100%;
+    display: flex;  
+    justify-content: center;
+}
+.trailer1{
+    font-size: 35px;
+    text-align: center;
+}
